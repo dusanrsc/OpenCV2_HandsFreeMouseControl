@@ -16,3 +16,5 @@
   # RIGHT CLICK: Little Finger Up,
 
   # EXIT: Middle Finger Up.
+
+# SCREENSHOTS:
