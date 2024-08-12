@@ -18,23 +18,23 @@
   # EXIT: Middle Finger Up.
 
 # SCREENSHOTS:
-  # NEUTRAL
+  MOUSE NEUTRAL:
   ![Neutral](https://github.com/user-attachments/assets/f38f1341-225a-44f1-8bff-c26bcc3e6581)
 
-  # UP
+  MOUSE UP:
   ![Up](https://github.com/user-attachments/assets/2d049621-27db-4d65-837d-31203d362e44)
 
-  # LEFT
+  MOUSE LEFT:
   ![Left](https://github.com/user-attachments/assets/eeea608e-dbbd-4c45-a090-a60aaafd4148)
 
-  # DOWN
+  MOUSE DOWN:
   ![Down](https://github.com/user-attachments/assets/d97503de-5734-4f5e-9e84-6b4b32c13759)
 
-  # RIGHT
+  MOUSE RIGHT:
   ![Right](https://github.com/user-attachments/assets/eec529a9-5a68-4c66-94f6-96954c36983a)
 
-  # LEFT CLICK
+  LEFT MOUSE CLICK:
   ![LeftClick](https://github.com/user-attachments/assets/ac2a8346-225e-4217-a523-8c0c953a5885)
 
-  # RIGHT CLICK
+  RIGHT MOUSE CLICK:
   ![RightClick](https://github.com/user-attachments/assets/a8284083-e969-4add-897e-f7a75ae55b53)
