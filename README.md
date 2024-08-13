@@ -2,7 +2,7 @@
 
 # NOTE: USE AS ALTERNATIVE FOR MOUSE CONTROLING WITHOUT PHYSICAL MOUSE OR REMOTLY, WITH SINGLE BARE HANDS...
 
-# Manuals: Down Bellow!
+# Manuals Are Down Bellow!
   # Neutral: All Fingers Down (Closed Hand),
   
   # Up: Point Finger Up,
