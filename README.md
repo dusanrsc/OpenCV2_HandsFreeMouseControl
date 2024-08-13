@@ -1,9 +1,8 @@
 # OpenCV2_HandsFreeMouseControl
 
-# WHATS NEW IN NEW (v1.1.0-beta) VERSION?
+# Whats New In (v1.1.0-beta) Version?
   # Added Drag Function
-  # To Activate Drag Function Just Change The Up And Down Fingers, Like In Movement So It Will Move Mouse While Dragging... 
-
+  # To Activate Drag Function Just Change The Up And Down Fingers, Like In Movement So It Will Move Mouse While Dragging...
 
 # NOTE: USE AS ALTERNATIVE FOR MOUSE CONTROLING WITHOUT PHYSICAL MOUSE OR REMOTLY, WITH SINGLE BARE HANDS...
 
