@@ -10,7 +10,7 @@
   # Down: Point And Middle Fingers Up,
   # Right: Thumb And Point Fingers Up,
 
-  # Left Clikc: All Fingers Up (Opened Hand),
+  # Left Click: All Fingers Up (Opened Hand),
   # (Double) Left Click: All Fingers Up (For A Seccond) (Opened Hand),
   
   # Right Click: Little Finger Up,
