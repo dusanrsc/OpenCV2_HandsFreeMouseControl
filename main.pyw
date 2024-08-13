@@ -6,8 +6,8 @@ import pyautogui
 from cvzone.HandTrackingModule import HandDetector
 
 # metadata
-__version__ = "v1.0.0-beta"
-__updated__ = "11.08.2024"
+__version__ = "v1.1.0-beta"
+__updated__ = "13.08.2024"
 __by__ = "Dusan Rosic"
 __tag__ = "@dusanrsc"
 
@@ -78,13 +78,34 @@ while cap.isOpened():
 			print("Forbidden! How Dare Are You..?")
 			break
 
-		# undefined input
+		### NOTE: MOVE MOUSE WHILE CLICKED
+		# move mouse up
+		elif fingerup == [1, 0, 1, 1, 1]:
+			pyautogui.moveRel(0, -MOUSE_SPEED, 0.1)
+			pyautogui.mouseDown(button="left")
+		
+		# move mouse down
+		elif fingerup == [1, 0, 0, 1, 1]:
+			pyautogui.moveRel(0, +MOUSE_SPEED, 0.1)
+			pyautogui.mouseDown(button="left")
+		
+		# move mouse right
+		elif fingerup == [0, 0, 1, 1, 1]:
+			pyautogui.moveRel(+MOUSE_SPEED, 0, 0.1)
+			pyautogui.mouseDown(button="left")
+		
+		# move mouse left
+		elif fingerup == [0, 1, 1, 1, 1]:
+			pyautogui.moveRel(-MOUSE_SPEED, 0, 0.1)
+			pyautogui.mouseDown(button="left")
+
+		# neutral
 		else:
-			print("Undefined Input!")
+			pyautogui.mouseUp(button="left")
 
 	# no input
 	else:
-		print("No Input!")
+		pass
 
 	# displaying video frame
 	cv2.imshow(f"{WINDOW_TITLE} | {__version__} | by: {__by__} ({__tag__})", frame)
