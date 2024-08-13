@@ -2,22 +2,22 @@
 
 # NOTE: USE AS ALTERNATIVE FOR MOUSE CONTROLING WITHOUT PHYSICAL MOUSE OR REMOTLY, WITH SINGLE BARE HANDS...
 
-# MANUALS: Down Bellow!
-  # NEUTRAL: All Fingers Down (Closed Hand),
+# Manuals: Down Bellow!
+  # Neutral: All Fingers Down (Closed Hand),
   
-  # UP: Point Finger Up,
-  # LEFT: Thumb Finger Up,
-  # DOWN: Point And Middle Fingers Up,
-  # RIGHT: Thumb And Point Fingers Up,
+  # Up: Point Finger Up,
+  # Left: Thumb Finger Up,
+  # Down: Point And Middle Fingers Up,
+  # Right: Thumb And Point Fingers Up,
 
-  # LEFT CLICK: All Fingers Up (Opened Hand),
-  # (DOUBLE) LEFT CLICK: All Fingers Up (For A Seccond) (Opened Hand),
+  # Left Clikc: All Fingers Up (Opened Hand),
+  # (Double) Left Click: All Fingers Up (For A Seccond) (Opened Hand),
   
-  # RIGHT CLICK: Little Finger Up,
+  # Right Click: Little Finger Up,
 
-  # EXIT: Middle Finger Up.
+  # Eexit: Middle Finger Up.
 
-# SCREENSHOTS:
+# Screenshots:
   # MOUSE NEUTRAL:
   ![Neutral](https://github.com/user-attachments/assets/f38f1341-225a-44f1-8bff-c26bcc3e6581)
 
