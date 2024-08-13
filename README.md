@@ -1,5 +1,11 @@
 # OpenCV2_HandsFreeMouseControl
 
+# /n
+# WHATS NEW:
+  # Added Drag Function
+    # To Activate Drag Function 
+# /n
+
 # NOTE: USE AS ALTERNATIVE FOR MOUSE CONTROLING WITHOUT PHYSICAL MOUSE OR REMOTLY, WITH SINGLE BARE HANDS...
 
 # Manuals Are Down Bellow!
