@@ -15,7 +15,7 @@
   
   # Right Click: Little Finger Up,
 
-  # Eexit: Middle Finger Up.
+  # Exit: Middle Finger Up.
 
 # Screenshots:
   # MOUSE NEUTRAL:
