@@ -5,6 +5,7 @@
   # To Activate Drag Function Just Change The Up And Down Fingers, Like In Movement So It Will Move Mouse While Dragging...
 
 # NOTE: USE AS ALTERNATIVE FOR MOUSE CONTROLING WITHOUT PHYSICAL MOUSE OR REMOTLY, WITH SINGLE BARE HANDS...
+# FOR THOSE WHO HAVE INTEGRATED OR WEB CAMERA BUT DO NOT HAVE TOUCHSCREEN OR MOUSE :D
 
 # Manuals Are Down Bellow!
   # Neutral: All Fingers Down (Closed Hand),
