@@ -1,4 +1,4 @@
-<div class="text" style="color: #FF0000"># NOTE: THIS APPLICATION ONLY WORKS ON PYTHON VERSIONS SUCH AS: 3.10, 3.9 AND LOWER</div>
+<span style="color:red"><strong>NOTE: This application only works on Python versions such as: 3.10, 3.9 and lower</strong></span>
 
 # OpenCV2_HandsFreeMouseControl
 
