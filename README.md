@@ -1,4 +1,4 @@
-<span style="color:red"><strong>NOTE: This application only works on Python versions such as: 3.10, 3.9 and lower</strong></span>
+# NOTE: This application only works on Python versions such as: 3.10, 3.9 and lower.
 
 # OpenCV2_HandsFreeMouseControl
 
