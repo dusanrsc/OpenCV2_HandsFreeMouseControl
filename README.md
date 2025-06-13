@@ -1,3 +1,5 @@
+### NOTE: THIS APPLICATION ONLY WORKS ON PYTHONS VERSIONS SUCH AS: 3.10, 3.9 AND LOWER ###
+
 # OpenCV2_HandsFreeMouseControl
 
 # Whats New In (v1.1.0-beta) Version?
